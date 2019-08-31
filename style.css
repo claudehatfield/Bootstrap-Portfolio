@@ -1,0 +1,22 @@
+.nav{
+  min-width:100%;
+  max-width: 100%;
+}
+
+
+.container{
+
+  
+  border: 2px solid black;
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  padding-top: 130px;
+  margin-bottom: 40px;
+  top: 20px;
+  
+  
+}
+
+
+
