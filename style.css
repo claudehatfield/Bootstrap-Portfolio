@@ -1,22 +1,66 @@
-.nav{
-  min-width:100%;
-  max-width: 100%;
+body{
+  background-image: url("../Bootstrap-Portfolio/assets/images/united-squares-negative.png");
 }
 
+.navbar {
+  min-width: 100%;
+  max-width: 100%;
+  height: 90px;
+  border-bottom: 2px solid #cccccc;
 
-.container{
 
-  
+}
+
+.navbar-brand {
+  color: #ffffff !important;
+  background-color: #4aaaa5;
+
+  width: 250px;
+  height: 90px;
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 90px;
+}
+
+h1 {
+  color: #4aaaa5;
+  font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.btn {
+  background-color: #4aaaa5;
+  border: 1px solid #4aaaa5;
+}
+
+.nav-item {
+  padding-right: 20px;
+}
+
+.navbar-nav {
+  padding-right: 125px;
+}
+
+.container {
+  background-color: #ffffff;
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
   border: 2px solid black;
   width: 100%;
   max-width: 960px;
   margin: 0 auto;
-  padding-top: 130px;
+  padding-top: 30px;
   margin-bottom: 40px;
   top: 20px;
-  
-  
+
+
 }
 
+footer {
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  background-color: #666666;
+  color: #ffffff;
+  margin-top: 150px;
+  border-top: 3px solid #4aaaa5;
+  text-align: center;
 
-
+}
