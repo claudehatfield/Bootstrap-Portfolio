@@ -1,2 +1,15 @@
 # Bootstrap-Portfolio
-My portfolio made with Bootstrap.
+
+
+##Introduction
+Portfolio for myself made with bootstrap.
+
+### Technologies
+Html
+Css
+Bootstrap 5
+
+#### Statup
+
+Open Website.
+
