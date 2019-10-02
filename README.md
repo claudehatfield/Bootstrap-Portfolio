@@ -9,18 +9,26 @@ Portfolio for myself made with bootstrap.
 Html
 Css
 Bootstrap 5
+Javascript
+Jqueary
+PHP
+
 
 #### Statup
 
-Open Website.
+Click on link to visit.
+
+https://claudehatfield.github.io/Bootstrap-Portfolio/
 
 ##### Inspiration
 
-This was a Homework assignment for the Coding Bootcamp I am attending. 
+My personal portfolio website.
 
 ###### Project Status
 
 Deployed to Github Pages.
+
+
 
 
 
